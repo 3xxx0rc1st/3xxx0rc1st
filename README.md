@@ -60,7 +60,7 @@ Know what happens underneath.
 ### `$ contact`
 
 - GitHub: [@3xxx0rc1st](https://github.com/3xxx0rc1st)
-- Email: [krupitsarus@outlook.com]
+- Email: [krupitsarus@outlook.com](krupitsarus@outlook.com)
 - Telegram: [@OxDEADDEAD](https://t.me/@O)
 
 ---
