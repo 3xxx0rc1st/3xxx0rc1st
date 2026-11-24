@@ -2,7 +2,7 @@
 
 ```text
 ╔══════════════════════════════════════════════════════════════╗
-║  SYSTEMS ENGINEER IN PROGRESS                               ║
+║  SYSTEMS ENGINEER IN PROGRESS                                ║
 ║  Linux · C · Infrastructure · DevOps                         ║
 ╚══════════════════════════════════════════════════════════════╝
 ```
