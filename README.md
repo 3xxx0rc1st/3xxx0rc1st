@@ -62,7 +62,7 @@ Know what happens underneath.
 - GitHub: [@3xxx0rc1st](https://github.com/3xxx0rc1st)
 - Email: krupitsarus@outlook.com
 - Telegram: [@OxDEADDEAD](https://t.me/@OxDEADDEAD)
-- Website: exorcist.iwebz.ru
+- Website: [exorcist.iwebz.ru](https://exorcist.iwebz.ru)
 
 ---
 
