@@ -27,7 +27,7 @@ I prefer building things, breaking them (intentionally, most of the time), and f
 
 | Project | Description | Stack |
 |:--|:--|:--|
-| [cfish](https://github.com/3xxx0rc1st/cfish) | Terminal aquarium with an embedded interactive shell and VT emulator | C, POSIX, PTY |
+| [aquash](https://github.com/3xxx0rc1st/aquash) | Terminal aquarium with an embedded interactive shell and VT emulator | C, POSIX, PTY |
 | [overlay-mesh-net](https://git.office.plyask.in/OxDEADDEAD/overlay-mesh-net) | Experimental overlay networking lab with NAT, relays and DPI simulation | Linux, Docker, Networking |
 
 ### `$ cat tech-stack.txt`
